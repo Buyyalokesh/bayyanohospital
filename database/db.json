@@ -1,0 +1,318 @@
+{
+  "adddepartment": [
+    {
+      "id": 1,
+      "name": "fd",
+      "Description": "ccx"
+    },
+    {
+      "id": 2,
+      "name": "lokesh",
+      "Description": "lokesh"
+    },
+    {
+      "id": 3,
+      "name": "",
+      "Description": ""
+    },
+    {
+      "id": 4,
+      "name": "gg",
+      "Description": "hhh"
+    },
+    {
+      "id": 5,
+      "name": "gg",
+      "Description": "ggf"
+    },
+    {
+      "id": 6,
+      "name": "ggf",
+      "Description": "gg"
+    },
+    {
+      "id": 7,
+      "name": "hospital",
+      "Description": "hospital"
+    },
+    {
+      "id": 8,
+      "name": "",
+      "Description": ""
+    }
+  ],
+  "adddoctor": [
+    {
+      "id": 1,
+      "name": "lokesh",
+      "email": "lokesh@gmail.com",
+      "password": "123456",
+      "adress": "hyd",
+      "phone": "986886789",
+      "department": "1"
+    },
+    {
+      "id": 2,
+      "name": "admin@example.com",
+      "email": "admin@example.com",
+      "password": "1233455",
+      "adress": "hyd",
+      "phone": "88655",
+      "department": "1"
+    },
+    {
+      "id": 3,
+      "name": "admin@example.com",
+      "email": "admin@example.com",
+      "password": "hgyg",
+      "adress": "hyd",
+      "phone": "yhy5r5",
+      "department": "2"
+    },
+    {
+      "id": 4,
+      "name": "",
+      "email": "",
+      "password": "",
+      "adress": "",
+      "phone": "",
+      "department": ""
+    },
+    {
+      "id": 5,
+      "name": "hgf",
+      "email": "ggf",
+      "password": "gfgf",
+      "adress": "gfg",
+      "phone": "gnnn",
+      "department": "1"
+    },
+    {
+      "id": 6,
+      "name": "r4",
+      "email": "fbvfd@gmail.bom",
+      "password": "rf",
+      "adress": "wf",
+      "phone": "fweewe",
+      "department": "3"
+    }
+  ],
+  "addpatient": [
+    {
+      "id": 1,
+      "name": "lokesh",
+      "email": "loke",
+      "password": "",
+      "adress": "",
+      "phone": "",
+      "sex": "",
+      "birth": "",
+      "blood": ""
+    },
+    {
+      "id": 2,
+      "name": "lokesh",
+      "email": "lokesh@gmail.com",
+      "password": "1234",
+      "adress": "hyd",
+      "phone": "356789890",
+      "sex": "1",
+      "birth": "09/09/2000",
+      "blood": "1"
+    },
+    {
+      "id": 3,
+      "name": "",
+      "email": "",
+      "password": "",
+      "adress": "",
+      "phone": "",
+      "sex": "",
+      "birth": "",
+      "blood": ""
+    },
+    {
+      "id": 4,
+      "name": "",
+      "email": "",
+      "password": "",
+      "adress": "",
+      "phone": "",
+      "sex": "",
+      "birth": "",
+      "blood": ""
+    },
+    {
+      "id": 5,
+      "name": "admin@example.com",
+      "email": "admin@example.com",
+      "password": "dwa",
+      "adress": "hyd",
+      "phone": "as",
+      "sex": "2",
+      "birth": "SAsa",
+      "blood": "1"
+    },
+    {
+      "id": 6,
+      "name": "admin@example.com",
+      "email": "admin@example.com",
+      "password": "szcd",
+      "adress": "hyd",
+      "phone": "vd",
+      "sex": "1",
+      "birth": "dsfdf",
+      "blood": "2"
+    },
+    {
+      "id": 7,
+      "name": "sss",
+      "email": "gs",
+      "password": "ss",
+      "adress": "hyd",
+      "phone": "dgd",
+      "sex": "1",
+      "birth": "xgd",
+      "blood": "1"
+    },
+    {
+      "id": 8,
+      "name": "admin@example.com",
+      "email": "admin@example.com",
+      "password": "gffd",
+      "adress": "hyd",
+      "phone": "987558798",
+      "sex": "2",
+      "birth": "zfd",
+      "blood": "1"
+    }
+  ],
+  "addappoint": [
+    {
+      "id": 1,
+      "Name": "hyyugyu",
+      "Email": "hjhjb",
+      "Phone": "09987",
+      "Date": "2024-01-13",
+      "Department": "Anesthetics",
+      "doctor": "DR.SANDEEP",
+      "message": "uhu"
+    },
+    {
+      "id": 2,
+      "Name": "r",
+      "Email": "gggtr",
+      "Phone": "",
+      "Date": "",
+      "Department": "Select Deartment",
+      "doctor": "DR.HARSHA",
+      "message": ""
+    },
+    {
+      "id": 3,
+      "Name": "lokesh",
+      "Email": "c",
+      "Phone": "987558798",
+      "Date": "",
+      "Department": "Anesthetics",
+      "doctor": "Select Doctor",
+      "message": ""
+    }
+  ],
+  "addnurse": [
+    {
+      "id": 1,
+      "name": "fdg",
+      "email": "admin@example.com",
+      "password": "gregreg",
+      "adress": "hyd",
+      "phone": "987558798"
+    },
+    {
+      "id": 2,
+      "name": "vgfsf",
+      "email": "ew",
+      "password": "reew",
+      "adress": "rewe",
+      "phone": "few"
+    },
+    {
+      "id": 3,
+      "name": "vgfsf",
+      "email": "ew",
+      "password": "reew",
+      "adress": "rewe",
+      "phone": "few"
+    },
+    {
+      "id": 4,
+      "name": "sf",
+      "email": "fs",
+      "password": "fdssd",
+      "adress": "dsfds",
+      "phone": "f"
+    },
+    {
+      "id": 5,
+      "name": "",
+      "email": "",
+      "password": "",
+      "adress": "",
+      "phone": ""
+    },
+    {
+      "id": 6,
+      "name": "gttdrrds",
+      "email": "admin@example.com",
+      "password": "4566676",
+      "adress": "hyd",
+      "phone": "54564466"
+    }
+  ],
+  "addphramcist": [
+    {
+      "id": 1,
+      "name": "vfvf",
+      "email": "fvf",
+      "password": "szdsf",
+      "adress": "sfdsdsds",
+      "phone": "fdsdss"
+    }
+  ],
+  "addlabaratory": [
+    {
+      "id": 1,
+      "name": "lokesh",
+      "email": "lokesh",
+      "password": "",
+      "adress": "",
+      "phone": ""
+    },
+    {
+      "id": 2,
+      "name": "lokesh",
+      "email": "lokesh",
+      "password": "",
+      "adress": "",
+      "phone": ""
+    },
+    {
+      "id": 3,
+      "name": "eee",
+      "email": "admin@example.com",
+      "password": "12344",
+      "adress": "hyd",
+      "phone": "4324555"
+    }
+  ],
+  "addaccountant": [
+    {
+      "id": 1,
+      "name": "venkatesh",
+      "email": "admin@example.com",
+      "password": "12345",
+      "adress": "hyd",
+      "phone": "34243434"
+    }
+  ]
+}

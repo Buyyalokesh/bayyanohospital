@@ -1,0 +1,126 @@
+.conttt1{
+    width: 100%;
+}
+.icon2{
+    background-color: whitesmoke;
+    height: 560px;
+    width: 530px;
+    margin: 25px 0 0 520px;
+}
+.yourname{
+    margin: 30px 0px 0px 10px;
+    font-size: 20px;
+}
+.yournames{
+    margin: 30px 0px 0px 100px;
+    font-size: 20px;
+}
+.name{
+    width: 225px;
+    height: 50px;
+    margin: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.names{
+    width: 225px;
+    height: 50px;
+    margin: 30px;
+    margin-left: 80px;
+    margin-top: 10px;
+}
+/* .emaill{
+    width: 240px;
+    height: 50px;
+    margin: 0px 0px 0px 80px;
+    margin-top: -40px;
+}
+.youremaill{
+    margin: 40px;
+    padding-left: 40px;
+    font-size: 20px;
+} */
+.subjectheading{
+    font-size: 20px;
+    margin: 0px 0px 0px 20px;
+}
+.subject{
+    width:490px;
+    height: 50px;
+    margin: 0px 0px 0px 10px;
+}
+.messageheading{
+    font-size: 20px;
+    margin: 15px 0px -15px 18px;
+}
+.textarea{
+    height: 150px;
+    width: 482px;
+    margin: 20px 0px 0px 20px;
+}
+.button{
+    margin: 40px 0px 0px 180px;
+    height: 40px;
+    width: 150px;
+    background-color: blue;
+    border: 0cap;
+    color: whitesmoke;
+    border-radius: 10px;
+}
+.contact55{
+    margin: 40px 0 0 0px ;
+    width: 100%;
+}
+.backggground-container{
+    background-color: black;
+    height: 400px;
+    width: 100%;
+    margin: 40px 0 0 0;
+}
+
+.bayanno-heading{
+    color: white;
+    font-size: 25px;
+    font-family: sans-serif;
+    margin: 20px 0 0 350px;
+}
+
+.logo-footer{
+    height: 90px;
+    width: 90px;
+    margin: 100px 0 0 450px;   
+}
+.main-footer{
+    color: white;
+}
+.home-footer{
+    color: white;
+}
+.doctor-footer{
+    color: white;
+}
+.appointment-footer{
+    color: white;
+}
+.login-footer{
+    color: white;
+}
+.help-footer{
+    color: white;
+}
+.contact-footer{
+    color: white;
+}
+
+.about-footer{
+    color: white;
+}
+.blog-footer{
+    color: white;
+}
+.headi1{
+   padding: 120px 0 0 60px;
+}
+.headi2{
+    padding: 120px 0 0 0;
+}

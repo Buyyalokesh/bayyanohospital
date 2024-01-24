@@ -1,0 +1,195 @@
+.menubars{
+   list-style-type: none;
+   padding: -10px;
+   cursor: pointer;
+}
+.logo{
+   
+   height: 53px;
+   width: 55px;
+   color: black;
+   margin: 0px 15px -10px 0px ;
+   
+}
+.home-style{
+   display: inline;
+   position: relative;
+   margin: 0 0 0 500px;
+   font-size: 20px;
+   
+}
+.background-1{
+   background-color: white;
+   height: 100px;
+}
+.bayanno-style{
+   display: inline;
+   position: relative;
+   margin: 0 0 0 15px;
+   font-size: 30px;
+}
+.departments-style{
+   display: inline;
+   position: relative;
+   margin: 0 0 0 45px;
+   font-size: 20px;
+}
+.submenu2 {
+   list-style-type: none;
+   position: absolute;
+   display: none;
+   background-color: aqua;
+}
+.departments-style:hover .submenu2{
+   display: block;
+   left: 0;
+}
+.doctors-style{
+   display: inline;
+   position: relative;
+   margin: 0 0 0 45px;
+   font-size: 20px;
+}
+.about-style{
+   display: inline;
+   position: relative;
+   margin: 0 0 0 45px;
+   font-size: 20px;
+}
+.appointment-style{
+   display: inline;
+   position: relative;
+   margin: 0 0 0 45px;
+   font-size: 20px;
+}
+.blog-style{
+   display: inline;
+   position: relative;
+   margin: 0 0 0 45px;
+   font-size: 20px;
+}
+.contact-style{
+   display: inline;
+   position: relative;
+   margin: 0 0 0 45px;
+   font-size: 20px;
+}
+.login-style{
+   display: inline;
+   position: relative;
+   margin: 0 0 0 45px;
+   font-size: 20px;
+  
+}
+.immg{
+   width: 100%;
+}
+.immg1{
+   margin: -50px 0 0 143px;
+   width: 1223px;
+}
+.immg3{
+   width: 1550px;
+   margin: -20px;
+}
+.immg4{
+   width: 1550px;
+}
+.immg5{
+   width: 1550px;
+}
+.immg6{
+   width: 1550px;
+}
+.immg7{
+   width: 1550px;
+}
+.text88{
+   margin: -2544px 0 0 700px;
+   font-size: 20px;
+   color: white;
+}
+.text99{
+   margin: 400 0 0 300px;
+}
+.text009{
+   margin: -130px 0 0 780px;
+   color: #0087be;
+}
+.backgrounds-container{
+   background-color: black;
+   height: 400px;
+   width: 100%;
+   margin: 2600px 0 0 0;
+}
+
+.bayanno-heading{
+   color: white;
+   font-size: 25px;
+   font-family: sans-serif;
+   margin: 20px 0 0 350px;
+}
+
+.logo-footer{
+   height: 90px;
+   width: 90px;
+   margin: 90px 0 0 100px;   
+}
+.main-footer{
+   color: white;
+}
+.home-footer{
+   color: white;
+}
+.doctor-footer{
+   color: white;
+}
+.appointment-footer{
+   color: white;
+}
+.login-footer{
+   color: white;
+}
+.help-footer{
+   color: white;
+}
+.contact-footer{
+   color: white;
+}
+
+.about-footer{
+   color: white;
+}
+.blog-footer{
+   color: white;
+}
+.headi1{
+  padding: 120px 0 0 60px;
+}
+.headi2{
+   padding: 120px 0 0 0;
+}
+.home-style:hover{
+   color: white;
+    background: #0087be;
+    padding: 32px;
+}
+
+/* ///Query media/// */
+
+@media screen and (max-width: 767px) {
+   /* Adjust styles for smaller screens here */
+   .menubars {
+       padding: 15px; /* Example adjustment */
+   }
+
+   .logo {
+       margin: 0px 5px -10px 0px; /* Example adjustment */
+   }
+
+   .home-style {
+       margin: 0; /* Example adjustment */
+   }
+
+   /* Add more adjustments as needed */
+}

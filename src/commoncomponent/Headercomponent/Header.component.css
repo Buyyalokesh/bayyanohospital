@@ -1,0 +1,51 @@
+.maincontainer{
+    background-color: white;
+    margin: 0px 0px 0px -50px;
+    width: 1500px;
+    height: 150px;
+}
+.head-line{
+    font-size: 40px;
+    padding: 10px 0px 0px 180px;
+}
+.menubar{
+    list-style-type: none;
+    position: relative; 
+}
+.menubar::after{
+    position: absolute;
+    content: '';
+    display: block;
+    background-color: black;
+    height: 3px;
+    width: 1150px;
+    margin: 25px 0px 0px 0px;
+}
+
+.person-icon3{
+    margin: -5px 0px 0px -10px;
+    font-size: 20px;
+}
+.admintext{
+    display: inline;
+    position: relative;
+    font-size: 18px;
+}
+.webtext{
+    display: inline;
+    position: relative;
+    font-size: 18px;
+}
+.globe-icon{
+    margin: -5px 0px 0px 850px;
+    font-size: 20px;
+}
+.logouttext{
+    display: inline;
+    position: relative;
+    font-size: 18px;
+    margin: 0px 0px 0px 70px;
+}
+.log-icon{
+    margin:-2px 0px 0px 10px ;
+}

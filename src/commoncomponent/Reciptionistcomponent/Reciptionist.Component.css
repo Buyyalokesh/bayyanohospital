@@ -1,0 +1,121 @@
+.arrow-icon12{
+    font-size: 35px;
+    margin: 15px 0 0 -25px;
+}
+.Reciptionisttext{
+    font-size: 30px;
+    margin: -40px 0px 0px 20px;
+}
+.add-Reciptionist{
+    color:#ffffff;
+    background-color: #26a69a;
+    border-width: 0px;
+    height: 50px;
+    width: 250px;
+    font-size: 23px;
+    font-family: sans-serif;
+    border-radius: 50px;
+    margin: 10px 0px 0px 880px;
+ }
+ .plus-icon15{
+     font-size: 30px;
+     color: white;
+ }
+ .overlayyer{
+     position: fixed;
+     top:0;
+     left:0;
+     width: 100%;
+     height:100%;
+     background-color: rgba(0,0,0,0.5);
+     display: flex;
+     align-items: center;
+     justify-content: center;
+ }
+ .addReciptionistForm{
+     background-color:#fff;
+     padding: 250px;
+     width:600px;
+     height: 650px;
+     box-shadow: 0 0 10px rbga(0,0,0,0.1);
+ }
+ .addReciptionist{
+     margin: -220px 0 0 -220px;
+     font-size: 35px;
+ }
+ .namehead{
+    margin: 30px 0 0 -100px;
+    font-size: 25px;
+    font-family: sans-serif;
+    color: #949494;
+ }
+ .nameheaddd{
+   margin: 30px 0 0 -130px;
+   font-size: 25px;
+   font-family: sans-serif;
+   color: #949494;
+}
+ .adress{
+    margin: 30px 0 0 -120px;
+    font-size: 25px;
+    font-family: sans-serif;
+    color: #949494;
+ }
+ .phonetext2{
+    margin: 30px 0 0 -100px;
+    font-size: 25px;
+    font-family: sans-serif;
+    color: #949494;
+ }
+ .nameheader{
+    margin: -35px 0px 0px 0px;
+    width: 400px;
+ }
+ .passwordtext{
+    margin: 30px 0 0 -140px;
+    font-size: 25px;
+    font-family: sans-serif;
+    color: #949494;
+ }
+ .adressbox{
+    margin: -35px 0 0 0;
+    width: 250px;
+ }
+
+ .nameheaderr{
+    margin: -35px 0px 0px 0px;
+    width: 250px;
+ }
+ .seclecttext2{
+    margin: 80px 0 0 -170px;
+    font-size: 25px;
+    font-family: sans-serif;
+    color: #949494;
+ }
+ .filebut{
+    margin: -50px 0 0 10px;
+ }
+ .save{
+    margin: 50px 0px 0px -10px;
+    width: 100px;
+    height: 40px;
+    font-size: 23px;
+    border-radius: 50px;
+    background-color: #66bb6a;
+    border: none;
+}
+
+ .close{
+     margin: -5px 0px 0px 200px;
+     font-size: 23px;
+     height: 40px;
+     width: 100px;
+     border-radius: 50px;
+ }
+ .recept-container{
+   margin: 0 0 0 150px;
+}
+
+.save---button{
+  margin-bottom: 100px;
+}

@@ -1,0 +1,140 @@
+.headingbackground{
+    background-color: black;
+    height: 180vh;
+    width: 45vh;
+    /* position: fixed; */
+}
+.logoD{
+    height: 60px;
+    width: 60px;
+    margin: 20px 0 0 18px;
+}
+.justify{
+    color: white;
+    margin: -243px 0px 0px 100px;
+    font-size: 30px;
+    cursor: pointer;
+}
+.Alogo{
+    height: 43px;
+    width: 43px;
+    margin: 55px 0px 0px 45px;
+}
+.wel{
+    margin: -45px 0px 0px 110px;
+    color: aliceblue;
+}
+.MA{
+    margin: 0PX 0PX 0PX 109PX;
+    color: white;
+}
+.pc-icon{
+    color: blue;
+    margin: 60px 0px 0px 30px;
+    font-size: 25px;
+}
+.textboard{
+    color: white;
+    margin: -25px 0px 0px 75px;
+    font-size: 20px;
+}
+.Dept-icon{
+    color: blue;
+    margin: 20px 0px 0px 30px;
+    font-size: 25px;
+}
+.textdept{
+    color: white;
+    margin: -25px 0px 0px 75px;
+    font-size: 20px;
+}
+.Doc-icon{
+    color: blue;
+    margin: 20px 0px 0px 30px;
+    font-size: 25px;
+}
+.textdoc{
+    color: white;
+    margin: -25px 0px 0px 75px;
+    font-size: 20px;
+}
+.paictent-icon{
+    color: blue;
+    margin: 20px 0px 0px 30px;
+    font-size: 25px;
+}
+.textpat{
+    color: white;
+    margin: -25px 0px 0px 75px;
+    font-size: 20px;
+}
+.nur-icon{
+    color: blue;
+    margin: 20px 0px 0px 30px;
+    font-size: 25px;
+}
+.textnurse{
+    color: white;
+    margin: -25px 0px 0px 75px;
+    font-size: 20px;
+}
+.hos-icon{
+    color: blue;
+    margin: 20px 0px 0px 30px;
+    font-size: 25px;
+}
+.textpharma{
+        color: white;
+        margin: -25px 0px 0px 75px;
+        font-size: 20px;
+}
+.lab-icon{
+    color: blue;
+    margin: 20px 0px 0px 30px;
+    font-size: 25px;
+}
+.textlab{
+    color: white;
+    margin: -25px 0px 0px 75px;
+    font-size: 20px;
+}
+.acc-icon{
+    color: blue;
+    margin: 20px 0px 0px 30px;
+    font-size: 25px;
+}
+.textacc{
+    color: white;
+    margin: -25px 0px 0px 75px;
+    font-size: 20px;
+}
+.rep-icon{
+    color: blue;
+    margin: 20px 0px 0px 30px;
+    font-size: 25px;
+}
+.textrep{
+    color: white;
+    margin: -25px 0px 0px 75px;
+    font-size: 20px;
+}
+.set-icon{
+    color: blue;
+    margin: 20px 0px 0px 30px;
+    font-size: 25px;
+}
+.textset{
+    color: white;
+    margin: -25px 0px 0px 75px;
+    font-size: 20px;
+}
+.e-icon{
+    color: blue;
+    margin: 20px 0px 0px 30px;
+    font-size: 25px;
+}
+.texte{
+    color: white;
+    margin: -25px 0px 0px 75px;
+    font-size: 20px;
+}

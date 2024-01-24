@@ -1,0 +1,63 @@
+.login-background{
+    background-color: #0d1428;
+    height: 100vh;
+    width: 80vh;
+}
+.logo1{
+    height: 75px;
+    width: 75px;
+    margin: 80px 0 0 250px;
+}
+.heading-1{
+    color:  #ffffff;
+    font-family: sans-serif;
+    margin: 20px 0 0 130px;
+    font-size: 40px;
+
+}
+.heading-2{
+ color: white;
+ font-family: sans-serif;
+ margin: 5px 0 0 100px;
+    font-size: 40px;
+}
+.email{
+    margin: 40px 0 0 35px;
+    height: 75px;
+    width: 530px;
+    background-color: #0d1428;
+    border-radius: 1px solid ;
+   border-color: #424a52;
+   
+}
+.password{
+    margin: 45px 0 0 35px;
+    height: 75px;
+    width: 530px;
+    background-color: #0d1428;
+    border-radius: 1px solid ;
+   border-color: #424a52;
+}
+.login-button{
+    margin: 45px 0 0 35px;
+    height: 75px;
+    width: 530px;
+    font-size: 30px;
+    color: #ffffff;
+    background-color: #2191bf;
+    border-radius: 5px;
+}
+.fypassword{
+    color: #72818e;
+    font-size: 25px;
+    font-family: sans-serif;
+    margin: 45px 0 0 170px;
+}
+.image{
+    height: 750px;
+    width: 980px;
+    margin: 0 0 0 -12px;
+}
+.lock-icon{
+    margin: -5px 0px 0px 10px;
+}

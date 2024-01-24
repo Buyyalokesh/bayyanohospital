@@ -1,0 +1,59 @@
+
+.bimg1{
+   width: 100%; 
+}
+.bimg3{
+    width: 100%;
+}
+.background-container{
+    background-color: black;
+    height: 400px;
+    width: 100%;
+}
+
+.bayanno-heading{
+    color: white;
+    font-size: 25px;
+    font-family: sans-serif;
+    margin: 20px 0 0 350px;
+}
+
+.logo-footer{
+    height: 90px;
+    width: 90px;
+    margin: 100px 0 0 450px;   
+}
+.main-footer{
+    color: white;
+}
+.home-footer{
+    color: white;
+}
+.doctor-footer{
+    color: white;
+}
+.appointment-footer{
+    color: white;
+}
+.login-footer{
+    color: white;
+}
+.help-footer{
+    color: white;
+}
+.contact-footer{
+    color: white;
+}
+
+.about-footer{
+    color: white;
+}
+.blog-footer{
+    color: white;
+}
+.headi1{
+   padding: 120px 0 0 60px;
+}
+.headi2{
+    padding: 120px 0 0 0;
+}

@@ -1,0 +1,131 @@
+.arrow-icon{
+    margin: 20px 0px 0px -25px;
+    font-size: 25px;
+}
+.dashboardA{
+    margin: -30px 0px 0px 10px;
+    font-size: 25px;
+}
+.card1{
+    background-color: white;
+    height: 150px;
+    width: 250px;
+    border-radius: 10px;
+    margin: 20px 0px 0px -15px;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.11);
+
+}
+.card2{
+    background-color: white;
+    height: 150px;
+    width: 250px;
+    border-radius: 10px;
+    margin: 20px 0px 0px 15px;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.11);
+}
+.card3{
+    background-color: white;
+    height: 150px;
+    width: 250px;
+    border-radius: 10px;
+    margin: 20px 0px 0px 15px;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.11);
+}
+.card4{
+    background-color: white;
+    height: 150px;
+    width: 250px;
+    border-radius: 10px;
+    margin: 20px 0px 0px 25px;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.11);
+}
+.number-1{
+    color: #303641;
+}
+.Dtext{
+    font-size: 30px;
+}
+.number-2{
+    color: #f56954;
+}
+.ptext{
+    font-size: 30px;
+    color: #f56954;
+}
+.number-3{
+    color: #00c0ef;
+}
+.Ntext{
+    color: #00c0ef;
+    font-size: 30px;
+}
+.number-4{
+    color: #0073b7;
+}
+.Ltxt{
+    color: #0073b7;
+    font-size: 30px;
+}
+.number-5{
+    color: #00b29e;
+}
+.ltxt{
+    color: #00b29e;
+    font-size: 30px;
+}
+.number-6{
+    color: #ba79cb;
+}
+.atxt{
+    color: #ba79cb;
+    font-size: 30px;
+}
+.number-7{
+    color: #ec3b83;
+}
+.ptxt{
+    color: #ec3b83;
+    font-size: 30px;
+}
+.number-8{
+    color:#ffa812 ;
+};
+
+.number-9{
+    color: #00a65a;
+}
+.otxt{
+    color: #00a65a;
+    font-size: 25px;
+}
+.number-10{
+    color: #6c541e;
+}
+.btext{
+color: #6c541e;
+font-size: 30px;
+}
+.dtext{
+    color: #6c541e;
+    font-size: 30px; 
+}
+.textm{
+    color:#ffa812 ;
+    font-size: 30px;
+}
+.card10{
+    background-color: white;
+    height: 75px;
+    width: 250px;
+    border-radius: 10px;
+    margin: 20px 0px 0px 15px;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.11);
+}
+.card11{
+    background-color: white;
+    height: 75px;
+    width: 250px;
+    border-radius: 10px;
+    margin: 20px 0px 0px 15px;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.11);
+}

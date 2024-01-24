@@ -1,0 +1,137 @@
+.imaged{
+    width: 100%;
+    height: 35vh;
+}
+.card22{
+    background-color:#f3f6f7;
+    height: 400px;
+    width: 250px;
+    border-radius: 10px;
+    margin: 20px 0px 0px 250px;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.11);
+    cursor: pointer;
+}
+.number-90{
+    font-size: 20PX;
+    margin: 20PX;
+}
+.Ddtext{
+    font-size: 30px;
+    margin: 50px 0 0 15px;
+    color:#0087be;
+    position: relative;
+}
+.Ddtext::after{
+    position: absolute;
+    content: '';
+    display: block;
+    background-color: black;
+    height: 1px;
+    width: 220px;
+    margin: 25px 0px 0px 0px;
+}
+.antext{
+    margin: 40px 0 0 20px;
+    font-size: 20px;
+}
+.antext::after{
+    position: absolute;
+    content: '';
+    display: block;
+    background-color: black;
+    height: 1px;
+    width: 220px;
+    margin: 0px 0px 0px -5px;
+}
+.cctext{
+    margin: 30px 0 0 20px;
+    font-size: 20px;
+}
+.cctext::after{
+    position: absolute;
+    content: '';
+    display: block;
+    background-color: black;
+    height: 1px;
+    width: 220px;
+    margin: 0px 0px 0px -5px;
+}
+.ggtext{
+    margin: 30px 0 0 20px;
+    font-size: 20px;
+}
+.card55{
+    background-color: #f3f6f7;
+    height: 400px;
+    width: 700px;
+    border-radius: 10px;
+    margin: -330px 0px 0px 300px;
+}
+.logoa{
+    height: 400px;
+    width: 700px;
+    padding: 10px;
+}
+.bbground{
+    margin: 50px 0 0 -250px;
+    width: 1550px;
+}
+.ggg{
+    margin: -100px 0px 0px 845px;
+    color: white;
+    font-size: 10px;
+
+}
+.backgroundd-container{
+    background-color: black;
+    height: 400px;
+    width: 100%;
+    margin: 130px 0 0 0;
+}
+
+.bayanno-heading{
+    color: white;
+    font-size: 25px;
+    font-family: sans-serif;
+    margin: 20px 0 0 350px;
+}
+
+.logo-footer{
+    height: 90px;
+    width: 90px;
+    margin: 100px 0 0 450px;   
+}
+.main-footer{
+    color: white;
+}
+.home-footer{
+    color: white;
+}
+.doctor-footer{
+    color: white;
+}
+.appointment-footer{
+    color: white;
+}
+.login-footer{
+    color: white;
+}
+.help-footer{
+    color: white;
+}
+.contact-footer{
+    color: white;
+}
+
+.about-footer{
+    color: white;
+}
+.blog-footer{
+    color: white;
+}
+.headi1{
+   padding: 120px 0 0 60px;
+}
+.headi2{
+    padding: 120px 0 0 0;
+}
